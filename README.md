@@ -8,6 +8,7 @@ Este repositório está organizado da seguinte forma:
 * outputs: pasta que contém todos os outputs de cada uma das versões da modelagem, tais como arquivos .lp, arquivos .sol, grade final no formato .csv etc
 * tratamento_dados: pasta que contém o notebook utilizado para fazer o tratamento inicial nos dados
 * utils: pasta destinada a guardar todos os arquivos .py com as classes e funções utilizadas na modelagem
+* Arquivos .lp e .sol são muito grandes para o repositório, portanto estão compactados na pasta do drive: https://drive.google.com/drive/folders/1Vz5a_n3syDve_TwXaOfkhWABwVb5NaH1?usp=sharing
 
 Os arquivos da modelagem propriamente dita são os notebooks .ipynb que iniciam com "modelagem".
 
